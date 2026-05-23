@@ -20,16 +20,6 @@ ChromaDB (Vector Database)
 PyPDF (PDF processing)
 Python
 
-**📁 Project Structure**
-
-Women-empowerment-chatbot/
-│── app.py
-│── data/
-│    └── PDFs
-│── chroma_db/
-│── requirements.txt
-│── README.md
-
 **⚙️ Setup Instructions**
 
 1️⃣ Clone the repository
